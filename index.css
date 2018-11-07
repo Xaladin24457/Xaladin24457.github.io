@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://i1.wp.com/www.itechtics.com/wp-content/uploads/2015/09/better__windows_10_wallpaper_by_kirill2485-d95e6hs.jpg");
+  color: white;
+}
+
+ul {
+  background-color: white;
+  font-size: 30px;
+}
+
+.menu li {
+  display: inline;
+  margin: 16px;
+}
+
+li a:hover:not(.active) {
+  color: yellow;
+}
+
+.active {
+  color: yellow;
+}
